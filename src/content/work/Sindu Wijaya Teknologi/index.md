@@ -4,7 +4,6 @@ location: "Jakarta, Indonesia"
 position: "Full-Stack Developer"
 tags: ["Codeigniter 3", "REST", "MySql", "Bootstrap","PHP"]
 startDate: "2020-02-16"
-endDate: "0000-00-00"
 ---
 
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum eget augue commodo, rutrum enim vel, varius lorem. Ut nec sem metus.</p>
