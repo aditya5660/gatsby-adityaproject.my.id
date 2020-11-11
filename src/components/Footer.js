@@ -4,7 +4,7 @@ import { useStaticQuery, graphql } from "gatsby"
 export default () => {
   const { author } = useStaticQuery(query).site.siteMetadata
   return (
-    <div className="footer text-muted text-center">
+    <div className="footer text-muted text-center my-4">
       <span className="m-auto">
         <b>{author}</b> &copy; {new Date().getFullYear()}. Made with&nbsp;
         <span className="heart">&nbsp;❤&nbsp;</span> &&nbsp;

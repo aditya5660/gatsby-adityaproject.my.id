@@ -33,10 +33,10 @@ export default ({ data }) => {
       <PageTitle title="About Me" />
       <Container>
         <Image
-          rounded
+          roundedCircle
           width="140"
           height="140"
-          src={`../../icons/luke-${toString()}.png`}
+          src={`../../images/adityaputra.png`}
           alt={author}
         />
         <article className="w-75 m-auto pt-2 text-justify">
@@ -49,31 +49,17 @@ export default ({ data }) => {
             ))}
           </p>
           <p className="i-5 mt-4 pt-2">
-            Hello there! My name is <b>{`${author}`}</b>. I am a&nbsp;
-            <a
-              href="https://www.dictionary.com/e/fictional-characters/padawan/"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              padawan
-            </a>
-            &nbsp;
-            <b>{occupation}</b> discovering the ways of the code. Lorem ipsum
-            dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-            incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-            veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-            ea commodo consequat.
+            Halo! Nama Saya <b>{`${author}`}</b>.Saya seorang&nbsp;
+            <b>{occupation}</b> yang memiliki ketertarikan lebih terhadap teknologi dan senang saat berhasil memecahkan suatu masalah dengan teknologi.
+              Saat ini saya bekerja di salah satu software house di Yogyakarta, Indonesia sebagai Back End Engineer. 
           </p>
           <p className="i-5">
-            In my spare time, Lorem ipsum dolor sit amet, consectetur adipiscing
-            elit, sed do eiusmod tempor incididunt ut labore et dolore magna
-            aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
-            laboris nisi ut aliquip ex ea commodo consequat.
+            Waktu senggang saya, lebih banyak dihabiskan untuk riset teknologi baru dalam pemrograman dan berkontribusi di open source projects sambil menyeruput kopi.
+            Saya juga banyak membaca buku tentang bisnis, pengelolaan keuangan dan personal branding.
           </p>
           <p className="i-5">
-            Check out my <Link to="/projects">projects</Link> to see what I've
-            been up to! Or check out my <Link to="/blog">blog</Link> to see
-            what's recently caught my eye!
+            Lihat <Link to="/projects">projects</Link> saya untuk melihat apa yang telah saya lakukan! 
+            Atau kunjungi <Link to="/blog">blog</Link> saya untuk melihat apa yang baru-baru ini menarik perhatian saya!  
           </p>
         </article>
         <article className="w-75 m-auto">
@@ -99,19 +85,13 @@ export default ({ data }) => {
           )}
           <hr />
           <h5 className="watch-list-title pt-4">
-            Here are a couple of books from my reading list:
+            Berikut beberapa buku dari daftar bacaan saya:
           </h5>
           <ul style={{ fontSize: "0.9rem", listStyle: "none" }}>{bookLinks}</ul>
           <h5 className="watch-list-title pt-4">
-            Here are a couple of shows from my watch list:
+            Berikut beberapa film dari daftar bacaan saya:
           </h5>
           <ul style={{ fontSize: "0.9rem", listStyle: "none" }}>{showLinks}</ul>
-          <h5 className="watch-list-title pt-4">
-            Here are a couple of movies from my watch list:
-          </h5>
-          <p>
-            <i>...waaaay too many to list.</i>
-          </p>
         </article>
       </Container>
     </PageLayout>

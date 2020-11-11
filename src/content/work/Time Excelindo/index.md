@@ -1,10 +1,10 @@
 ---
-company: "Facebook"
-location: "Toronto, ON"
-position: "Full-Stack Developer Intern"
-tags: ["React", "Redux", "Docker", "Datadog"]
-startDate: "2016-05-04"
-endDate: "2016-09-01"
+company: "Time Excelindo"
+location: "Yogyakarta,Indonesia"
+position: "Software Engineering Intern"
+tags: ["Codeigniter 3", "Fusio", "PgSQL", "Vue js"]
+startDate: "2019-08-05"
+endDate: "2020-02-16"
 ---
 
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum eget augue commodo, rutrum enim vel, varius lorem. Ut nec sem metus.</p>
