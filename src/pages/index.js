@@ -32,8 +32,10 @@ export default ({ data }) => {
               color: "black",
             }}
           >
-            <span className="first-name">{firstName}</span>&nbsp;
-            <span className="last-name">{lastName}</span>
+            <span className="first-name">
+				{firstName} &nbsp;
+				{lastName}
+			</span>
           </h1>
           <p>
             <i>
