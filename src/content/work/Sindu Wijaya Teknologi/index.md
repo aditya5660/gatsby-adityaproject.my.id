@@ -6,14 +6,14 @@ tags: ["Codeigniter 3", "REST", "MySql", "Bootstrap","PHP"]
 startDate: "2020-02-16"
 ---
 
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum eget augue commodo, rutrum enim vel, varius lorem. Ut nec sem metus.</p>
+- Tergabung dalam Software Development Production Team</p>
 
-* Cras laoreet, metus consectetur mollis consectetur, dui ante tempus ante, eget luctus felis odio sed leo.</p>
+* Membangun dan memelihara Sistem Informasi Pemerintahan dengan Codeigniter 3.</p>
 
-* Sed tempus, ex ultrices porttitor fringilla, enim tellus dictum elit, quis viverra odio orci eu erat. Maecenas auctor ultrices ornare. Mauris consequat a urna in cursus.</p>
+* Merancang dan membangun database berbasis MySQL.</p>
 
-* Mauris hendrerit, sem sit amet dapibus ultrices, lacus quam malesuada lorem, interdum lacinia tortor augue maximus mauris.</p>
+* Membangun dan memelihara Web Service berbasis REST API untuk kebutuhan Integrasi Data.</p>
 
-* Aliquam ultrices, lectus ac semper dictum, nisi eros sollicitudin purus, nec pharetra massa diam eu libero. Integer at metus vitae urna placerat vehicula. Donec ut sagittis risus, sed mattis mi.</p>
+* Membangun dan memelihara Web Service berbasis WSDL untuk kebutuhan Integrasi Data.</p>
 
-* Donec suscipit, ex vitae finibus faucibus, nisl est eleifend justo, quis porta ante massa sed arcu. Morbi dapibus, massa sit amet posuere porta, sapien tellus malesuada ipsum, et vehicula nunc diam vel lacus. Donec fringilla viverra massa vitae aliquet.</p>
+* Membantu dalam pemeliharaan Legacy Application pada Sistem Informasi Pemerintahan.</p>

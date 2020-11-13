@@ -2,19 +2,18 @@
 company: "Time Excelindo"
 location: "Yogyakarta,Indonesia"
 position: "Software Engineering Intern"
-tags: ["Codeigniter 3", "Fusio", "PgSQL", "Vue js"]
+tags: ["Codeigniter 3", "Fusio", "MySQL", "Vue js"]
 startDate: "2019-08-05"
 endDate: "2020-02-16"
 ---
 
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum eget augue commodo, rutrum enim vel, varius lorem. Ut nec sem metus.</p>
+- Tergabung dalam Software Development Production Team</p>
 
-* Cras laoreet, metus consectetur mollis consectetur, dui ante tempus ante, eget luctus felis odio sed leo.</p>
+* Membangun dan memelihara Web Service berbasis REST API untuk integrasi dengan Mobile App.</p>
 
-* Sed tempus, ex ultrices porttitor fringilla, enim tellus dictum elit, quis viverra odio orci eu erat. Maecenas auctor ultrices ornare. Mauris consequat a urna in cursus.</p>
+* Membangun Web Application secara Fullstack dengan Codeigniter 3 dan Vue JS.</p>
 
-* Mauris hendrerit, sem sit amet dapibus ultrices, lacus quam malesuada lorem, interdum lacinia tortor augue maximus mauris.</p>
+* Merancang dan Membangun Database Web Application dengan MySQL 5.7 dan PgSQL POSTGIS.</p>
 
-* Aliquam ultrices, lectus ac semper dictum, nisi eros sollicitudin purus, nec pharetra massa diam eu libero. Integer at metus vitae urna placerat vehicula. Donec ut sagittis risus, sed mattis mi.</p>
+* Memelihara API Gateway berbasis FUSIO API GATEWAY dan mengimplementasi JWT Token pada FUSIO.</p>
 
-* Donec suscipit, ex vitae finibus faucibus, nisl est eleifend justo, quis porta ante massa sed arcu. Morbi dapibus, massa sit amet posuere porta, sapien tellus malesuada ipsum, et vehicula nunc diam vel lacus. Donec fringilla viverra massa vitae aliquet.</p>

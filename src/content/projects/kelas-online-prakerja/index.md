@@ -1,0 +1,15 @@
+---
+title: "Kelas Online Prakerja"
+tags: ["Project", "Codeigniter 3", "MySQL", "Vue JS", "Bootstrap", "Youtube API","Midtrans"]
+date: "2020-07-01"
+---
+
+Kelas Online Prakerja (kelasonlineprakerja.id) merupakan Marketplace LMS Multi Vendor yang dibangun diatas PHP7, Framework Codeigniter 3 dan menggunakan database MySQL5.7.
+Project ini juga mengimplementasikan payment gateway / gerbang pembayaran sehingga dapat menerima pembayaran online dengan berbagai metode.
+Project ini juga terintegrasi dengan Kemnaker dalam program PraKerja sehingga peserta Kartu PraKerja dapat mendaftar Program Prakerja Dalam LMS Kelas Online Prakerja dengan Kartu PraKerja.
+
+Role saya dalam project ini sebagai Lead-Developer yang bertugas
+* Membuat Standar Code untuk teman2 programmer yang lain.
+* Membuat Administrative Panel dengan Codeigniter 3.
+* Merancang dan membangun struktur database yang berbasis MySQL 5.7.
+* Mengimplementasi kan Bisnis Proses kedalam Service Layer dalam aplikasi.
